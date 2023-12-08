@@ -6,7 +6,7 @@ const DavidBarragan = () => {
       </header>
       <h2 className="font-bold">David Barragan</h2>
       <p className="text-slate-500 font-semibold">
-        Instructor de React en Academlo
+        Programador web
       </p>
     </article>
     
