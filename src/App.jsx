@@ -1,10 +1,20 @@
+import DavidBarragan from "./components/DavidBarragan";
+import DergiSamayoa from "./components/DergiSamayoa";
+import DurlandyBlandon from "./components/DurlandyBlandon";
+import GabrielBonilla from "./components/GabrielBonilla";
+import ReneRivera from "./components/ReneRivera";
+import YahelEspino from "./components/YahelEspino";
+
 function App() {
   return (
-    <>
-      <h1 className="text-center p-2 font-bold">
-        Starter React - Vite - Javascript - TailwindCSS
-      </h1>
-    </>
+    <main>
+      <DavidBarragan />
+      <DergiSamayoa />
+      <DurlandyBlandon />
+      <GabrielBonilla />
+      <ReneRivera />
+      <YahelEspino />
+    </main>
   );
 }
 
